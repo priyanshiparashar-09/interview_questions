@@ -1,0 +1,10 @@
+1. Why java is not 100% Object Oriented?
+2. why pointers are not used in Java ?
+3.what is JIT compiler?
+4. why String is immutable in java ?
+5. what is a marker interface  and why it use?
+6. Can you override a private method or static method in java ?
+7. Does Finally always execute in java ?
+8. what methods does the Object class have?
+9. How can you make a class immutable?
+10.what is singleton class in java and how can we make a class a singleton?
